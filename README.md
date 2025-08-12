@@ -1,0 +1,2 @@
+# Practica
+aprender lo estudiado 
